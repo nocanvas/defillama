@@ -1,0 +1,28 @@
+Why are you creating this pull request?
+Add Secret Network TVL adapter
+
+Twitter Link:
+https://twitter.com/SecretNetwork
+
+List of audit if any:
+
+Website Link:
+https://scrt.network/
+
+Contact Email:
+info@secret.foundation
+
+Expected TVL:
+81,560,777
+
+Chain:
+Secret Network
+
+Coingecko ID (so your TVL can appear on Coingecko):
+secret
+
+Description/bio (to be shown on DefiLlama):
+Secret is the native coin of the Secret Network, a decentralized network for private / secure computation. Nodes on the network (known as secret nodes) can perform generalizable computations over encrypted data, which allows smart contracts (known as secret contracts) to use private and sensitive data as inputs. Our focus is on computational privacy, not just transactional privacy.
+
+Token address and ticker if any:
+SCRT
